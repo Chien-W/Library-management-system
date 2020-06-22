@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Library-management-system:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92206b76-6812-4e85-a07f-ff71041096ea" name="Default Changelist" comment="更新说明文件">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/image.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Library_management_system_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Library_management_system_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Library_management_system_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Library_management_system_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/library_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/library_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_2_RELEASE.xml" afterDir="false" />
+>>>>>>> 48a71c84e5e7cc1906d953cee4d6cf41516ef3bb
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-management-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Library-management-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/classes/db.properties" afterDir="false" />
+=======
+>>>>>>> 48a71c84e5e7cc1906d953cee4d6cf41516ef3bb
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/404.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/404.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_book_add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_book_add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_book_detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_book_detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_book_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_book_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_books.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_books.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_lend_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_lend_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_reader_add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_reader_add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_reader_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_reader_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_readers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_readers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_repasswd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/admin_repasswd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_book_detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_book_detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_books.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_books.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_header.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_info_edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_info_edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_lend_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_lend_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_repasswd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/jsp/reader_repasswd.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Library_management_system_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/library_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/library/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/library/controller/LoginController.java" afterDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered_reader_add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered_reader_add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/book-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/book-context.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered_reader_add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registered_reader_add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/book-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/book-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+>>>>>>> 48a71c84e5e7cc1906d953cee4d6cf41516ef3bb
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/book-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/MyBatis/admin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/MyBatis/book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/MyBatis/lend.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/MyBatis/readerCard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/MyBatis/readerInfo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/book-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_book_add.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_book_detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_book_edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_books.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_lend_list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_reader_add.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_reader_edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_readers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_readers1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/admin_repasswd.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_book_detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_books.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_info_edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_lend_list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_main.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/reader_repasswd.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/jsp/registered_reader_add.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/book1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/book2(1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/book2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/book3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/classroom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/library.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/library1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/library2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/lizhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/school.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/scut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/sky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/timg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/u1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/u2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/u5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/img/wolf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/js/jquery-3.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-1.1/static/js/js.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/conf/web.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1cnfbWA21M5Dt6zocd5wTo2L6ru" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/library-1.1/WEB-INF/lib" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Library-management-system\target\library-1.1\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.30" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.30" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Library-management-system:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Library_management_system_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Library-management-system" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53851" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Library-management-system:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92206b76-6812-4e85-a07f-ff71041096ea" name="Default Changelist" comment="" />
+      <created>1591169349361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591169349361</updated>
+      <workItem from="1591169352424" duration="15339000" />
+      <workItem from="1591262906220" duration="2824000" />
+      <workItem from="1591293198991" duration="3032000" />
+      <workItem from="1591296299052" duration="471000" />
+      <workItem from="1591322503781" duration="1664000" />
+      <workItem from="1591324204215" duration="537000" />
+      <workItem from="1591334258452" duration="4121000" />
+      <workItem from="1591338428419" duration="128000" />
+      <workItem from="1591344416224" duration="12435000" />
+      <workItem from="1591489629553" duration="4544000" />
+      <workItem from="1591522831627" duration="171000" />
+      <workItem from="1591322503781" duration="1664000" />
+      <workItem from="1591324204215" duration="537000" />
+<<<<<<< HEAD
+      <workItem from="1592059914974" duration="280000" />
+      <workItem from="1592381064747" duration="1040000" />
+      <workItem from="1592382518657" duration="12000" />
+      <workItem from="1592526836631" duration="2390000" />
+      <workItem from="1592799343806" duration="84000" />
+=======
+>>>>>>> 48a71c84e5e7cc1906d953cee4d6cf41516ef3bb
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新说明文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新说明文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="71" key="#Project_Structure" timestamp="1591258375977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1591258375977" />
+    <state x="0" y="143" key="#Template_Data_Languages" timestamp="1591524018567">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="143" key="#Template_Data_Languages/0.0.1536.824@0.0.1536.824" timestamp="1591524018567" />
+<<<<<<< HEAD
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592457419743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592457419743" />
+=======
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592046153778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592046153778" />
+>>>>>>> 48a71c84e5e7cc1906d953cee4d6cf41516ef3bb
+    <state x="260" y="6" key="CommitChangelistDialog2" timestamp="1591295971431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="260" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591295971431" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1592059665292">
+<<<<<<< HEAD
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1592046346926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1592046346926" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592046127018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+=======
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.center" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.left" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state width="1024" height="210" key="GridCell.Tab.2.right" timestamp="1592059665292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1592059665292" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1592046346926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1592046346926" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592046127018">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+>>>>>>> 48a71c84e5e7cc1906d953cee4d6cf41516ef3bb
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592046127018" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591296661592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591296661592" />
+    <state x="590" y="321" key="extract.method.dialog" timestamp="1591357122365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="321" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1591357122365" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591338214994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591338214994" />
+  </component>
+</project>
