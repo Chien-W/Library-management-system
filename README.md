@@ -8,7 +8,7 @@
 
 ### 项目演示
 
-[演示地址](library.oyyandwjw.cn) <——点击跳转
+[演示地址](http://library.oyyandwjw.cn/) <——点击跳转
 
 ### 环境配置
 
